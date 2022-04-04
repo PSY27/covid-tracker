@@ -1,7 +1,9 @@
 .infoBox {
   flex: 1;
 }
-
+.infoBox:hover{
+  background-color: #6d7052;
+}
 .infoBox:not(:last-child) {
   margin-right: 10px;
 }
