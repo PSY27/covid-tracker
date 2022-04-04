@@ -16,6 +16,7 @@ const firebaseConfig = {
   measurementId: "G-43GPFYZTMC"
 };
 
+// eslint-disable-next-line no-unused-vars
 const app = initializeApp(firebaseConfig);
 
 ReactDOM.render(
