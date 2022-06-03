@@ -1,4 +1,4 @@
-## Covid Tracker
+## Covid Tracker 2022
 
 ## Available Scripts
 
